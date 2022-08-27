@@ -95,7 +95,7 @@ Tambien soy director de la unidad de postgrado de la facultad de computación y 
 
 ### Contenidos que difundo
 
-* [![Python][python.py]][Pyhton-url]
+* [![Python][Python.org]][Python-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
