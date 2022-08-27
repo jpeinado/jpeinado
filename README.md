@@ -90,8 +90,6 @@ como contaduria en la carrera de informacion gestion y control las materia de ba
 Tambien soy director de la unidad de postgrado de la facultad de computación y profesor de la plataforma online AraiCenter.
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -99,7 +97,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Contenidos que difundo
 
 * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+* [![Python][python.py]][pyhton-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
