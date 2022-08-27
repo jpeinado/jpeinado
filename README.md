@@ -85,6 +85,10 @@
 ## ¿ Quien Soy?
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+Docente de la facultad de ciencias de la computación, docente de las materia de estructuras de datos, programación grafica, en otras facultades
+como contaduria en la carrera de informacion gestion y control las materia de base de datos y sistemas operativos.
+Tambien soy director de la unidad de postgrado de la facultad de computación y profesor de la plataforma online AraiCenter.
+
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -251,19 +255,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 ¿Que contenidos publico en mis repositorios?
 
 
-### Hi there 👋
 
-<!--
-**jpeinado/jpeinado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
