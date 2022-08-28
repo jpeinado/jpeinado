@@ -33,7 +33,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/python-projects.jpg" alt="Logo" width="800" height="400">
+    <img src="images/python-projects.jpg" alt="Logo" width="700" height="450">
   </a>
 
 <h3 align="center">project_title</h3>
