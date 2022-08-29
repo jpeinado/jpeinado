@@ -104,7 +104,7 @@ Tambien soy director de la unidad de postgrado de la facultad de computación y 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - juanpeinado@uagrm.edu.bo
+Your Name - [@twitter_handle](https://twitter.com/jcpp2406) - juanpeinado@uagrm.edu.bo
 
 Project Link: [https://github.com/jpeinado/jpeinado/](https://github.com/jpeinado/jpeinado/)
 
