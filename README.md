@@ -90,10 +90,10 @@ Docente de la facultad de ciencias de la computación, docente de las materia de
 como contaduria en la carrera de informacion gestion y control las materia de base de datos y sistemas operativos.
 Tambien soy director de la unidad de postgrado de la facultad de computación y profesor de la plataforma online AraiCenter.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- PRESENTACION DEL VIDEO -->
 ### Video Introductorio de Estructuras de Datos
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [![Alt text for your video](http://img.youtube.com/vi/e4-WMBdjfnw/0.jpg)](https://youtu.be/e4-WMBdjfnw)
 
