@@ -92,7 +92,8 @@ Tambien soy director de la unidad de postgrado de la facultad de computación y 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## Video Introductorio de Estructuras de Datos
+<!-- PRESENTACION DEL VIDEO -->
+### Video Introductorio de Estructuras de Datos
 
 [![Alt text for your video](http://img.youtube.com/vi/e4-WMBdjfnw/0.jpg)](https://youtu.be/e4-WMBdjfnw)
 
