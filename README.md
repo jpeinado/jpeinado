@@ -107,7 +107,9 @@ Tambien soy director de la unidad de postgrado de la facultad de computación y 
 ```Python
 class Node:
   def __init__():
-  pass
+    Left  = None
+    Right = None
+    Data  = None
 ```
 
 ### EndFlowchart
