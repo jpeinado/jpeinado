@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## ¿ Quien Soy?
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://jcpeinado.wordpress.com/about/)
 Docente de la facultad de ciencias de la computación, docente de las materia de estructuras de datos, programación grafica, en otras facultades
 como contaduria en la carrera de informacion gestion y control las materia de base de datos y sistemas operativos.
 Tambien soy director de la unidad de postgrado de la facultad de computación y profesor de la plataforma online AraiCenter.
